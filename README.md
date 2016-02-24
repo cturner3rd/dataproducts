@@ -12,3 +12,6 @@ The source code is in this dataproducts repo
 - server.R is the code to generate the plots
 - MPG.Rpres is the presentation file that describes the behavior of the application
 - MPG.md is the markdown document for the presentation
+
+### RPubs
+The presentation is available here: http://rpubs.com/cturner3rd/155482
