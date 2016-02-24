@@ -8,7 +8,7 @@ Developing Data Products Class, Data Science Specialization
 Overview
 ========================================================
 This application is used to quickly view the relationships
-between 2 variables in the [mtcars database](http:////stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html) and the dependent
+between 2 variables in the [mtcars database](http://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html) and the dependent
 variable miles/gallon (MPG). To view the plots:
 
 - Select a variable to appear on the x-axis
@@ -17,7 +17,7 @@ variable miles/gallon (MPG). To view the plots:
 
 Shiny: [Visualizing the mtcars Database application](http://cturner3rd.shinyapps.io/Assignment/)
 
-Github: 
+Github: [Github repo](http://github.com/cturner3rd/dataproducts) for all code.
 
 Data Input
 ========================================================
